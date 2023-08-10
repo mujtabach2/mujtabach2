@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Mujtaba Chaudhty</h1>
 
 # 💫 About Me:
-🌱 I’m currently learning OpenCV and DSA<br><br>💬 Ask me about React, mern, or MMA<br><br>📫 How to reach me mujtabawaqas@gmail.com<br><br>📄 Know about my experiences https://yellow-edeline-60.tiiny.site
+🌱 I’m currently learning OpenCV and DSA<br><br>💬 Ask me about React, mern, or MMA<br><br>📫 How to reach me mujtabawaqas@gmail.com<br><br>📄 Know about my experiences <a href="https://yellow-edeline-60.tiiny.site"> Resume </a>
 
 
 ## 🌐 Socials:
