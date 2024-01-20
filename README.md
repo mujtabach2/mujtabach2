@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Mujtaba Chaudhty</h1>
 
 # 💫 About Me:
-🌱 I’m currently learning OpenCV and DSA<br><br>💬 Ask me about React, mern, or MMA<br><br>📫 How to reach me mujtabawaqas@gmail.com<br><br>📄 Know about my experiences <a href="https://scarlet-martina-3.tiiny.site/"> Resume </a>
+🌱 I’m currently learning OpenCV and DSA<br><br>💬 Ask me about React, mern, or MMA<br><br>📫 How to reach me mujtabawaqas@gmail.com<br><br>📄 Know about my experiences <a href="https://mujtabach.netlify.app/mujtabaResume.pdf"> Resume </a><br><br>🌐 Website <a href="https://mujtabach.netlify.app/"> mujtabach.netlify.app</a>
 
 
 ## 🌐 Socials:
